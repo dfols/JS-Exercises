@@ -7,7 +7,7 @@
 Description: Create an array and add three elements to it using the `push()`
 method.
 
-**Starter Code:**
+**Code:**
 
 ```javascript
 // Create an empty array
