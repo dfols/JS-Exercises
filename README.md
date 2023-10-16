@@ -256,11 +256,6 @@ for () {
 }
 ```
 
-Certainly, here is a simplified version of the if/else statement exercise:
-
-Got it! Here's the exercise with a complete example followed by a skeleton for
-the students to fill in:
-
 ### Exercise 11: If/Else Statements
 
 Description: Use an `if/else` statement to output a message based on the value
@@ -316,7 +311,9 @@ const evenNumbers = numbers.filter(function (number) {
 // Output the new array
 console.log(evenNumbers);
 
-// Use Array.filter() with arrow function syntax to create a new array with only the even numbers
+// Use
+
+ Array.filter() with arrow function syntax to create a new array with only the even numbers
 const evenNumbersArrow = numbers.filter((number) => number % 2 === 0);
 
 // Output the new array using arrow function
@@ -416,13 +413,13 @@ calculating the total value of the inventory.
    function should loop through the array, multiply the price and quantity of
    each item, and add up the results.
 
-### JavaScript features/functions used:
+#### JavaScript features/functions used:
 
 `Array.push`, `Array.filter`, `for` loop, `if` statement, objects
 
-## 3. Library System
+### 3. Library System
 
-### Description:
+#### Description:
 
 This is a basic library system where books are represented as objects. Each book
 has properties like "title", "author", "isAvailable", and "patron". Functions
@@ -468,8 +465,6 @@ program displays the converted temperature.
 #### JavaScript features/functions used:
 
 `parseFloat`, `isNaN`, `if/else`, `alert`, `prompt`
-
-### JavaScript Features/Functions
 
 ```javascript
 // An object in JavaScript
